@@ -18,7 +18,7 @@
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aliahmedbd&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliahmedbd&layout=compact&langs_count=7&theme=nord"/>[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aliahmedbd&theme=dark)](https://git.io/streak-stats)  <img height="190" width="295" src="https://wakatime.com/share/@aliahmed/0201740e-5584-4445-ab39-d20a79f48031.svg"> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aliahmedbd&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliahmedbd&layout=compact&langs_count=7&theme=nord"/>[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aliahmedbd&theme=dark)](https://git.io/streak-stats)  <img height="190" width="295" src="https://wakatime.com/share/@aliahmed/0eae731c-3e52-40ab-83bc-d76acf311b03.svg"> 
 
 
 
