@@ -1,6 +1,6 @@
-## Ali Ahmed <> Senior Android Developer)<img align="right" src="https://komarev.com/ghpvc/?username=aliahmedbd&label=Profile%20views&color=0e75b6&style=flat" alt="Ali Ahmed" />
+## Ali Ahmed <> Senior Android Developer<img align="right" src="https://komarev.com/ghpvc/?username=aliahmedbd&label=Profile%20views&color=0e75b6&style=flat" alt="Ali Ahmed" />
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-- 🏦 I'm an Android Application Developer working for VoxSmart LTD.
+- 🏦 I'm an Android Application Developer working for Fintech, Crypto, Communication based app.
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💻 I use daily **Kotlin**, **Java**, **Coroutine**,  **MVVM**, **Clean Architecture**, **DI: Hilt or Koin**, **Kotlin Flows**
 - 📖 I am currently reading **Atomic Habit** by James Clear
