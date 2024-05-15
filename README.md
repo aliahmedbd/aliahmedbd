@@ -5,7 +5,7 @@
 - 💻 I use daily **Kotlin**, **Jetpack Compose**,  **Java**, **Coroutine**,  **MVVM**, **Clean Architecture**, **DI: Hilt or Koin**, **Kotlin Flows**
 - 📖 I am currently reading **5 AM Club** by Robin Sharma
 - 💬 Talk to me about Android Development, Mobile UI and Arch Design, FinTech
-- My hobby is playing Cricket 🏏 and Programming 👨🏻‍💻
+- 🤍 My hobby is playing Cricket 🏏 and Programming 👨🏻‍💻
 - 🧑‍💻 Tech I work on :
 
 <p align="center">
