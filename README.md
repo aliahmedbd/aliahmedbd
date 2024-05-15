@@ -3,7 +3,7 @@
 - 🏦 I'm an Android Application Developer working for the UK government (HMRC). I previously worked on Fintech, Crypto, and Communication-based apps.
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💻 I use daily **Kotlin**, **Jetpack Compose**,  **Java**, **Coroutine**,  **MVVM**, **Clean Architecture**, **DI: Hilt or Koin**, **Kotlin Flows**
-- 📖 I am currently reading **% AM Club** by Robin Sharma
+- 📖 I am currently reading **5 AM Club** by Robin Sharma
 - 💬 Talk to me about Android Development, Mobile UI and Arch Design, FinTech
 - My hobby is playing Cricket 🏏 and Programming 👨🏻‍💻
 - 🧑‍💻 Tech I work on :
