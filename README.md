@@ -9,7 +9,7 @@
 - 🧑‍💻 Tech I work on :
 
 <p align="center">
-<img align="center" alt="Alec-Android" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg">
+<img align="center" alt="Alec-Android" height="30" width="50" src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg">
 <img align="center" alt="Alec-Kt" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg">
       <img align="center" alt="Alec-Dart" height="30" width="50" src="https://github.com/devicons/devicon/blob/master/icons/jetpackcompose/jetpackcompose-original.svg"> 
 <img align="center" alt="Alec-Dart" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg"> 
