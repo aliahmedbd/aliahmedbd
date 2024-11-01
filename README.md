@@ -1,6 +1,6 @@
 ## Ali Ahmed <> Senior Android Developer<img align="right" src="https://komarev.com/ghpvc/?username=aliahmedbd&label=Profile%20views&color=0e75b6&style=flat" alt="Ali Ahmed" />
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-- 🏦 I'm an Android Application Developer working for the UK government (HMRC). I previously worked on Fintech, Crypto, and Communication-based apps.
+- 🏦 I'm an Android Application Developer working for the NatWest grroup and my previous project was UK government (HMRC).
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💻 I use daily **Kotlin**, **Jetpack Compose**,  **Java**, **Coroutine**,  **MVVM**, **Clean Architecture**, **DI: Hilt or Koin**, **Kotlin Flows**
 - 📖 I am currently reading **Feel Good Productivity** by Ali Abdaal
