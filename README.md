@@ -19,10 +19,7 @@
 
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
 
-
 <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliahmedbd&layout=compact&langs_count=7&theme=nord"/>  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aliahmedbd&theme=dark)](https://git.io/streak-stats)
-
-
 
 ---
 
@@ -32,4 +29,7 @@
 <a href="https://www.youtube.com/channel/UCPh1ro137-ZjjFxllpvFDiQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://stackoverflow.com/users/4958766/alec-n-silva" target="_blank"><img src="https://img.shields.io/badge/stackoverflow-F48225?style=for-the-badge&logo=stackoverflow&logoColor=white" target="_blank"></a>
 
+### Pinned Repositories
+
+[![Bikatr7's Pinned Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=aliahmedbd&repo=WeatherApp-Android-Clean-Architecture-Jetpack-Compose-Kotlin-Hilt-Flow&show_owner=True&theme=highcontrast)]([https://github.com/Bikatr7/Kudasai](https://github.com/aliahmedbd/WeatherApp-Android-Clean-Architecture-Jetpack-Compose-Kotlin-Hilt-Flow))
 
