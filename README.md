@@ -31,5 +31,5 @@
 
 ### Pinned Repositories
 
-[![Bikatr7's Pinned Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=aliahmedbd&repo=WeatherApp-Android-Clean-Architecture-Jetpack-Compose-Kotlin-Hilt-Flow&show_owner=True&theme=highcontrast)]([https://github.com/Bikatr7/Kudasai](https://github.com/aliahmedbd/WeatherApp-Android-Clean-Architecture-Jetpack-Compose-Kotlin-Hilt-Flow))
+[![Ali's Pinned Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=aliahmedbd&repo=WeatherApp-Android-Clean-Architecture-Jetpack-Compose-Kotlin-Hilt-Flow&show_owner=True&theme=highcontrast)]((https://github.com/aliahmedbd/WeatherApp-Android-Clean-Architecture-Jetpack-Compose-Kotlin-Hilt-Flow))
 
